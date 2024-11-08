@@ -6,13 +6,14 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 
 - ### [Resumo Pessoal](#resumo-pessoal)
 - ### [Projetos](#projetos)
-    - [1º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-1)
-    - [2º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-2) 
-    - [3º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-3) 
-    - [4º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-4) 
-    - [5º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-5) 
-    - [6º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-6)
+    - [1º Semestre • "02/2022" • "Otimização de Processos"](#projeto-1)
+    - [2º Semestre • "01/2023" • "Gestão de Estoque"](#projeto-2) 
+    - [3º Semestre • "02/23" • "Transição de Mercado"](#projeto-3) 
+    - [4º Semestre • "01/2024" • "Otimização de Planejamento"](#projeto-4) 
+    - [5º Semestre • "02/2023" • "Transformação Tecnológica"](#projeto-5) 
+    - [6º Semestre • "02/2023" • "Deshboard Desempenho"](#projeto-6)
     - [Trabalho de Gradução - "Repositorio Digital"](https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI) 
+
 
 ---
     
@@ -21,7 +22,7 @@ Sou uma pessoa organizada, comprometida e focada em resultados. Sempre busco oti
 
 Minha trajetória profissional começou na área administrativa de um mercadinho, onde desenvolvi habilidades de organização e controle de estoque, entendendo a importância da eficiência operacional. Depois, trabalhei em uma marcenaria, aprofundando minha experiência em produção e fabricação, liderando projetos de móveis e aprimorando minhas habilidades técnicas e de planejamento. Atualmente, atuo no setor de Planejamento e Controle de Produção em uma empresa de vidro, sendo responsável por otimizar o corte de peças, gerenciar o estoque de matéria-prima e acompanhar o carregamento, assegurando a eficiência e qualidade no atendimento aos clientes e parceiros.
 <p style="text-align:center">
-    <img src="https://github.com/AndreLuizRibeiro/Portifolio/blob/main/2%C2%B0%20Sem/imagem/imagens.png" width= "100%">
+    <img src="" width= "100%">
 </p>
 
 ---
