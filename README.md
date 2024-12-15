@@ -20,18 +20,15 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 # Resumo Pessoal
 Sou uma pessoa organizada, comprometida e focada em resultados. Sempre busco otimizar processos e encontrar soluções inovadoras para os desafios que enfrento. Com 25 anos, ao longo da minha trajetória, adquiri experiências diversas, desde a administração até a produção, o que me proporcionou uma visão ampla e estratégica. Sou apaixonado por aprender e aprimorar minhas habilidades, o que me levou a cursar Gestão da Produção Industrial e atuar no setor de Planejamento e Controle da Produção. Estou sempre em busca de novos desafios e oportunidades para crescer em um ambiente dinâmico e inovador.
 
-Minha trajetória profissional começou na área administrativa de um mercadinho, onde desenvolvi habilidades de organização e controle de estoque, entendendo a importância da eficiência operacional. Depois, trabalhei em uma marcenaria, aprofundando minha experiência em produção e fabricação, liderando projetos de móveis e aprimorando minhas habilidades técnicas e de planejamento. Atualmente, atuo no setor de Planejamento e Controle de Produção em uma empresa de vidro, sendo responsável por otimizar o corte de peças, gerenciar o estoque de matéria-prima e acompanhar o carregamento, assegurando a eficiência e qualidade no atendimento aos clientes e parceiros.
-<p style="text-align:center">
-    <img src="" width= "100%">
-</p>
+Minha trajetória profissional começou na área administrativa de um mercadinho, onde desenvolvi habilidades de organização e controle de estoque, entendendo a importância da eficiência operacional. Depois, trabalhei em uma marcenaria, aprofundando minha experiência em produção e fabricação, liderando projetos de móveis e aprimorando minhas habilidades técnicas e de planejamento. Atuei no setor de Planejamento e Controle de Produção em uma empresa de vidro, sendo responsável por otimizar o corte de peças, gerenciar o estoque de matéria-prima e acompanhar o carregamento, assegurando a eficiência e qualidade no atendimento aos clientes e parceiros. Atuo atualmente no setor de planejamento de uma empresa especializada em soluções metalicas de alta tecnológia.
 
 ---
 # Projetos
 
 <a name="projeto-1"></a>  <!-- comando para criar uma ancora para o sumário -->
-## 1º Semestre • "02/2022" • "Otimização de Processos" 
+## 1º Semestre • 02/2022 • [Otimização de Processos](https://github.com/AndreLuizRibeiro/API-1SEM-022022-GPI)
 <p style="text-align:center">
-    <img src="https://github.com/AndreLuizRibeiro/Portifolio-GPI/blob/main/1%C2%B0%20Sem/imagem/Slide1.PNG" width= "100%">
+    <img src="https://github.com/AndreLuizRibeiro/Portifolio-GPI/blob/main/1%C2%B0%20Sem/imagem/Slide1.PNG" width= "90%">
 </p>
 
 ### Requisitos do Projeto
@@ -104,9 +101,9 @@ A capacidade de se adaptar a imprevistos e encontrar soluções rápidas para de
 
 ---
 <a name="projeto-2"></a>
-## 2º Semestre • "01/2023" • "Gestão de Estoque"
+## 2º Semestre • 01/2023 • [Gestão de Estoque](https://github.com/AndreLuizRibeiro/API-2SEM-012023-GPI)
 <p style="text-align:center">
-    <img src="https://github.com/AndreLuizRibeiro/Portifolio-GPI/blob/main/2%C2%B0%20Sem/imagem/Slide1.PNG" width= "100%">
+    <img src="https://github.com/AndreLuizRibeiro/Portifolio-GPI/blob/main/2%C2%B0%20Sem/imagem/Slide1.PNG" width= "90%">
 </p>
 
 ### Requisitos do Projeto
@@ -174,9 +171,9 @@ A estruturação de sistemas para controle e rastreamento facilita a tomada de d
 
 ---
 <a name="projeto-3"></a>
-## 3º Semestre • "02/23" • "Transição de Mercado"
+## 3º Semestre • 02/23 • [Transição de Mercado](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/)
 <p style="text-align:center">
-    <img src="https://github.com/AndreLuizRibeiro/Portifolio-GPI/blob/main/3%C2%B0%20Sem/imagem/Slide1.PNG" width= "100%">
+    <img src="https://github.com/AndreLuizRibeiro/Portifolio-GPI/blob/main/3%C2%B0%20Sem/imagem/Slide1.PNG" width= "90%">
 </p>
 
 ### Requisitos do Projeto
@@ -251,10 +248,11 @@ Compreender as necessidades da empresa é essencial para melhorar a abordagem a 
 
 ---
 <a name="projeto-4"></a>
-## 4º Semestre • "01/2024" • "Otimização de Planejamento"
+## 4º Semestre • 01/2024 • [Otimização de Planejamento](https://github.com/AndreLuizRibeiro/API-4SEM-012024-GPI)
 <p style="text-align:center">
-    <img src="https://github.com/AndreLuizRibeiro/Portifolio-GPI/blob/main/4%C2%B0%20Sem/imagem/Slide1.JPG" width= "100%">
+    <img src="https://github.com/AndreLuizRibeiro/Portifolio-GPI/blob/main/4%C2%B0%20Sem/imagem/Slide1.JPG" width= "90%">
 </p>
+
 ### Requisitos do Projeto
 - Levantamento dos processos atuais de PPCP
 - Definição de metas e indicadores de desempenho
@@ -271,7 +269,7 @@ Compreender as necessidades da empresa é essencial para melhorar a abordagem a 
 - Reciclagem interna
 
 ### Resultados
-> Descrever aqui os resultados obtidos neste projeto.
+Com as soluções propostas a empresa conseguiu análisar e entender melhor os pontos que precisavam de uma atenção maior, além de mostrar um potencial escondido que poderá reduzir custos, melhorar a imagem e gerar ganhos financeiros.
 
 ### Tecnológias Utilizadas
 - Excel
@@ -284,10 +282,10 @@ Compreender as necessidades da empresa é essencial para melhorar a abordagem a 
  - Google Meet
    
 ### Contribições pessoais
-> Descrever aqui as suas contribuições para esse projeto.
+Foi responsavel pelo desenvolvimento da solução para o descarte do refugo polimerico, bem como as planilhas para o controle dos materiais. Contribui na divisão das responsabilidades durante o projeto, para assim, cumprir com os prazos e entregas.
 
 ### Lições Aprendidas
-> Descrever aqui as lições aprendidas e dificuldades encontradas no desenvolvimento do projeto.
+Aprendi a tomar uma abordagem mais ativa e acertiva na aquisição dos requisitos e feedbacks da empresa, para que cada entrega ficasse mais precisa e adequada as necessidades da empresa.
 
 #### Hard Skill (saber tecnológico)
 <details>
@@ -324,42 +322,52 @@ Compreender as necessidades da empresa é essencial para melhorar a abordagem a 
 
 ---
 <a name="projeto-5"></a>
-## 5º Semestre • "02/2023" • "Transformação Tecnológica"
+## 5º Semestre • 02/2023 • [Transformação Tecnológica](https://github.com/AndreLuizRibeiro/API-5SEM-022023-GPI/)
 <p style="text-align:center">
     <img src="https://github.com/AndreLuizRibeiro/Portifolio-GPI/blob/main/5%C2%B0%20Sem/imagem/Slide1.PNG" width= "100%">
 </p>
 
 ### Requisitos do Projeto
->Descrever aqui os requisitos exigidos para a conclusão do projeto.
+- Propor ferramentas para o crescimento do negócio
+- Soluções acessíveis 
 
 ### Solução
-> Descrever aqui as soluções propostas no projeto.
-
+- Melhorias na comunicação
+- Melhorias no marketing
+- Melhorias na relação com o cliente
+- Novos stakeholders
 
 ### Resultados
-> Descrever aqui os resultados obtidos neste projeto.
+Com as soluções propostas foi possivel mostrar uma forma para melhorar significativamente a situação da empresa, de uma forma consisa, facil de ser aplicada e com retorno imediato.
 
 ### Tecnológias Utilizadas
-> Descrever aqui as ferramentas utilizadas no projeto.
+- PowerPoint
+- Canva
+- Git Projects
+- Scrum
+- Brainstorm
+- WhatsApp
+- Instagram
+- Uber
 
 ### Contribições pessoais
-> Descrever aqui as suas contribuições para esse projeto.
+Fui responsavel pela definição das soluções propostas e na divisão das tarefas dentro do grupo. Ajudei no controle do cronograma, alinhando as datas para que as entregas acontecessem sem nenhum imprevisto.
 
 ### Lições Aprendidas
-> Descrever aqui as lições aprendidas e dificuldades encontradas no desenvolvimento do projeto.
+Este projeto me ajudou a delegar melhor as tarefas e tambem melhorar minha comunicação com minha equipe.
 
 #### Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
   
-| Tecnologia/Metodologia | Classificação |
+| Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Scrum | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Power Point | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Canva | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Brainstorm | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
  
 </details>
 
@@ -369,41 +377,48 @@ Compreender as necessidades da empresa é essencial para melhorar a abordagem a 
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Pontualidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Criatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 </details>
 
 [Voltar ao Inicio](#sumário)
 
 ---
 <a name="projeto-6"></a>
-## 6º Semestre • "02/2023" • "Deshboard Desempenho"
+## 6º Semestre • 02/2023 • [Deshboard Desempenho](https://github.com/AndreLuizRibeiro/API-6SEM-022023-GPI/)
 <p style="text-align:center">
     <img src="https://github.com/AndreLuizRibeiro/Portifolio-GPI/blob/main/6%C2%B0%20Sem/imagem/Slide1.PNG" width= "100%">
 </p>
 
 ### Requisitos do Projeto
->Descrever aqui os requisitos exigidos para a conclusão do projeto.
+- Definição dos indicadores de desempenho
+- Desenvolvimento dos dashboards
 
 ### Solução
-> Descrever aqui as soluções propostas no projeto.
-
+- Análise e preparação dos dados
+- Formatação dos dados
+- Criação dos dashboards
 
 ### Resultados
-> Descrever aqui os resultados obtidos neste projeto.
+Este trabalho proporcionou uma nova forma de tratar os dados, mostrando novos indicadores, ajudando em uma análise mais profunda dos dasafios enfrentados na empresa.
 
 ### Tecnológias Utilizadas
-> Descrever aqui as ferramentas utilizadas no projeto.
+- PowerPoint
+- Brainstorm
+- KPI's
+- Power BI
+- Excel
+- Git Projects
 
 ### Contribições pessoais
-> Descrever aqui as suas contribuições para esse projeto.
+Ajudei no tratamento e análise dos dados, bem como, na preparação do dashboard de desempenho das linhas.
 
 ### Lições Aprendidas
-> Descrever aqui as lições aprendidas e dificuldades encontradas no desenvolvimento do projeto.
+Aprendi sobre a importancia do trabalho em equipe, aprendi tambem a melhorar minhas habilidades com a ferramenta power BI.
 
 #### Hard Skill (saber tecnológico)
 <details>
@@ -411,12 +426,12 @@ Compreender as necessidades da empresa é essencial para melhorar a abordagem a 
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| PowerPoint| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Brainstorm  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| KPI's  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Power BI| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Excel  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
 
@@ -426,12 +441,15 @@ Compreender as necessidades da empresa é essencial para melhorar a abordagem a 
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Comunicação eficaz  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Empatia  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Colaboração  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Capacidade de resolver problmemas  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Análise crítica  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gerenciamento de tempo| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
 </details>
 
 [Voltar ao Inicio](#sumário)
